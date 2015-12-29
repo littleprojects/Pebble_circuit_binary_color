@@ -1,0 +1,72 @@
+{
+    "appKeys": {
+        "KEY_COLOR": 1,
+        "KEY_MODE": 0,
+        "KEY_NUMBER": 2,
+        "KEY_SHOW_BAT": 5,
+        "KEY_VIBE_BT": 4,
+        "KEY_VIBE_H": 3
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "david.lenk@live.de",
+    "longName": "Circuit binary color",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/green_number.png",
+                "name": "IMAGE_BACKGROUND_GN",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/green_blank.png",
+                "name": "IMAGE_BACKGROUND_GB",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/icon.png",
+                "name": "ICON",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/white_number.png",
+                "name": "IMAGE_BACKGROUND_WN",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/white_blank.png",
+                "name": "IMAGE_BACKGROUND_WB",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/black_number.png",
+                "name": "IMAGE_BACKGROUND_BN",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/black_blank.png",
+                "name": "IMAGE_BACKGROUND_BB",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Circuit binary color",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "4fe1b68d-1bc6-4382-a8d4-06dd42ce5c4a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
